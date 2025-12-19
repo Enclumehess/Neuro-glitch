@@ -1,5 +1,5 @@
 # 🧠 Neuro Glitch
-
+[![Discord](https://img.shields.io/badge/Discord-Neuro%20Glitch-5865F2?logo=discord&logoColor=white)](https://discord.gg/frV89ksc2K)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-en%20développement-orange)
