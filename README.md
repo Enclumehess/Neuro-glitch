@@ -40,6 +40,3 @@ Il s’agit d’un script installable conçu pour automatiser et simplifier cert
 - Python **3.x**
 - Windows recommandé
 
-### 2️⃣ Cloner le dépôt
-```bash
-git clone https://github.com/<ton-username>/neuro-glitch.git
